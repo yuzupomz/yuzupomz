@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=yuzupomz&count_private=true&show_icons=true&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzupomz&layout=compact&theme=dracula)
 <!--
 **yuzupomz/yuzupomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
